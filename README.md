@@ -21,8 +21,8 @@ Compares the sampled analog input voltage to the output voltage of the DAC.
 ### 3.SAR
 Successive approximation register (SAR):
 The SAR is a shift register that stores the bits of the digital output code of the ADC.
-![Picture4](https://github.com/AyanNaska/-Successive-Approximation-Register-SAR-Analog-to-Digital-Converter-ADC-/assets/113054786/73ce11e5-646f-4bd2-9ca2-0780934a486f)
 ![Picture4a](https://github.com/AyanNaska/-Successive-Approximation-Register-SAR-Analog-to-Digital-Converter-ADC-/assets/113054786/9ea22a0a-3014-44ee-985f-05af4e3fb9e4)
+![Picture4](https://github.com/AyanNaska/-Successive-Approximation-Register-SAR-Analog-to-Digital-Converter-ADC-/assets/113054786/73ce11e5-646f-4bd2-9ca2-0780934a486f)
 ![Picture5](https://github.com/AyanNaska/-Successive-Approximation-Register-SAR-Analog-to-Digital-Converter-ADC-/assets/113054786/81c3783f-e93a-4885-aff9-860acf7fa528)
 
 ### 4.DAC
